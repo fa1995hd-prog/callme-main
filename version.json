@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2 (تحديث تجريبي)",
+  "versionCode": 1,
+  "versionName": "1.1.1 (تحديث تجريبي)",
   "apkUrl": "https://github.com/fa1995hd-prog/callme-main/releases/download/version.json/app-release.apk",
   "changelog": "هذا رسالة تجريبية لاختبار ظهور نافذة التحديث بنجاح.",
   "forceUpdate": false
