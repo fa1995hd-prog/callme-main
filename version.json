@@ -1,7 +1,7 @@
 {
   "versionCode": 4,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/fa1995hd-prog/callme-main/releases/download/version.json/app-release.apk",
-  "changelog": "احبك موت ياقلبي AMAL 1.1.1",
+  "versionName": "1.1.2 (تحديث تجريبي)",
+  "apkUrl": "https://github.com/fa1995hd-prog/callme-main/releases/download/v1.1.1/app-release.apk",
+  "changelog": "هذا رسالة تجريبية لاختبار ظهور نافذة التحديث بنجاح.",
   "forceUpdate": false
 }
